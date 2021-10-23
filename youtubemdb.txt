@@ -1,0 +1,4 @@
+title, channelTitle, description
+ videoId 
+
+snippet.thumbnails.medium.url
